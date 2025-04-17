@@ -6,4 +6,9 @@ public class TestClass {
 	
 	Student s1=new Student(1,"Amar",50);
 
+	
+	public static void main(String[] args) {
+		
+		System.out.println("1");
+	}
 }
