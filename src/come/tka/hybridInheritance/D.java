@@ -1,0 +1,8 @@
+package come.tka.hybridInheritance;
+
+public class D extends B{
+
+	void m4() {
+		System.out.println("D m4");
+	}
+}
